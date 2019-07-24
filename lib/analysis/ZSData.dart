@@ -15,8 +15,13 @@ class ZSData {
 
   //获取书籍列表
   static Future getBookList(ZSParams params) async {
-    
-   //逻辑已删除
+    Map<String, dynamic> parma = Map();
+    parma["gender"] = params.gender;
+    parma["type"] = params.type;
+    parma["major"] = params.major;
+    parma["minor"] = params.minor == "全部" ? "" : params.minor;
+    parma["start"] = params.start;
+    parma["limit"] = params.limit;
 
     return await HttpUtils.getAsync(UrlUtils.zs_category, params: parma);
   }
