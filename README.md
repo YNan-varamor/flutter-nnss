@@ -14,6 +14,7 @@
 - ...
 
 ## 效果图
+GitHub上这个图片老是出不来，可以查看[Gitee](https://gitee.com/YNan-varamor/nnss)上的效果图。
 |  ![121563939081_.pic.jpg](http://blog.file.lynunion.com/usr/uploads/2019/07/3124293137.jpg?x-oss-process=style/github) | ![131563939082_.pic.jpg](http://blog.file.lynunion.com/usr/uploads/2019/07/3550673865.jpg?x-oss-process=style/github)  |  ![141563939083_.pic.jpg](http://blog.file.lynunion.com/usr/uploads/2019/07/1806889557.jpg?x-oss-process=style/github) |
 | ------------ | ------------ | ------------ |
 |![151563939084_.pic.jpg](http://blog.file.lynunion.com/usr/uploads/2019/07/1184929444.jpg?x-oss-process=style/github)   |  ![201563939154_.pic.jpg](http://blog.file.lynunion.com/usr/uploads/2019/07/3479416897.jpg?x-oss-process=style/github)|  ![211563939155_.pic.jpg](http://blog.file.lynunion.com/usr/uploads/2019/07/3016079755.jpg?x-oss-process=style/github) |
